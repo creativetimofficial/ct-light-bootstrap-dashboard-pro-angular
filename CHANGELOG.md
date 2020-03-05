@@ -1,3 +1,7 @@
+## [1.4.1] 2020-03-05
+### Update
+- Remove .git, .gitignore, .editorconfig files
+
 ## [1.4.0] - 2020-02-27
 ### Updates
 - update to Angular 9
