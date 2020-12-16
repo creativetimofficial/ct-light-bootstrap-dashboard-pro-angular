@@ -1,6 +1,6 @@
 # [Light Bootstrap Dashboard Pro Angular](https://demos.creative-tim.com/light-bootstrap-dashboard-pro-angular2/)
 
-![version](https://img.shields.io/badge/version-1.4.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.5.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-light-bootstrap-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://media.giphy.com/media/5UA7WEil3E4T7hRDHe/giphy.gif)
 

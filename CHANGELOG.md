@@ -1,3 +1,8 @@
+## [1.5.0] - 2020-12-16
+### Updates
+- update to Angular 11
+- update all dependencies to match Angular 11 version
+
 ## [1.4.1] 2020-03-05
 ### Update
 - Remove .git, .gitignore, .editorconfig files
