@@ -1,3 +1,11 @@
+## [1.6.0] - 2022-04-21
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- full calendar implementation changed to ES6 build system
+- lazy loading module routing implementation
+- build issue fixed
+
 ## [1.5.0] - 2020-12-16
 ### Updates
 - update to Angular 11
