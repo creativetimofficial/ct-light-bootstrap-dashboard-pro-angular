@@ -1,3 +1,11 @@
+## [1.8.0] - 2023-07-26
+### Updates
+- update to Angular 15
+- update all dependencies to match the Angular 15 version
+- panel issue fixes
+- cosmetic issue fixes
+- code refactoring
+
 ## [1.7.0] - 2022-12-27
 ### Updates
 - update to Angular 14
